@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System/Content Based Approach
 This repository contains code for a movie recommendation system based on content similarity. The system utilizes the TMDB 5000 Movies dataset to recommend movies to users based on the similarity of movie attributes such as genres, keywords, cast, crew, and overview.
 
 # Problem Understanding
